@@ -13,7 +13,7 @@ jobs = [
     {
         "company": "Amazon",
         "role": "Software Engineer",
-        "description": "",
+        "description": "development job for new grads",
         "location": "Vancouver",
         "education": "Software Engineering Degree",
         "experience": "0-3 years",
