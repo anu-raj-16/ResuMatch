@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Microsoft",
+    "role": "Software Developer",
+    "description": "work on cloud",
+    "location": "Toronto",
+    "education": "Computer Science Degree",
+    "experience": 3,
+    "skills": [
+      "Azure"
+    ]
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Engineer",
+    "description": "",
+    "location": "Vancouver",
+    "education": "Software Engineering Degree",
+    "experience": 0,
+    "skills": [
+      "Python",
+      "Java",
+      "OOP"
+    ]
+  }
+]
